@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "267817647639",
+    "project_id": "recloth-22d97",
+    "storage_bucket": "recloth-22d97.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:267817647639:android:cfef55db25ba9b4d672652",
+        "android_client_info": {
+          "package_name": "com.example.recloth_x"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAw21A0p2dTJ0vTtQFI8_BQJnW4zA8lmBI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

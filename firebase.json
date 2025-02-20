@@ -1,0 +1,22 @@
+{
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "recloth-22d97",
+          "appId": "1:267817647639:android:cfef55db25ba9b4d672652",
+          "fileOutput": "android/app/google-services.json"
+        }
+      },
+      "dart": {
+        "lib/firebase_options.dart": {
+          "configurations": {
+            "android": "1:267817647639:android:cfef55db25ba9b4d672652",
+            "web": "1:267817647639:web:2b53028445fd58d8672652"
+          },
+          "projectId": "recloth-22d97"
+        }
+      }
+    }
+  }
+}
